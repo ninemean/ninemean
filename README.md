@@ -12,6 +12,24 @@ $$
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9mean2&label=Profile%20views&color=0e75b6&style=flat" alt="9mean2" /> </p>
 <p align="left">
 </p>
+
+<h3 align="left">ML Engineering</h3>
+
+<p align="left">
+<!-- langchain -->
+<img src="https://api.nuget.org/v3-flatcontainer/langchain/0.12.3-dev.127/icon" alt="expressjs" width="40" height="40"/>
+<!-- llamaindex -->
+<img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" alt="llamaindex" width="40" height="40"/>
+<!-- python -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+<!-- Pytorch -->
+<img src="https://076923.github.io/assets/images/pytorch.webp" alt="Pytorch" width="40" height="40"/>
+<!-- Huggingface -->
+<img src="https://community.intersystems.com/sites/default/files/inline/images/sticker-2048w.png" alt="Huggingface" width="40" height="40"/>
+<!-- conda -->
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_conda_icon_130674.png" alt="prisma" width="40" height="40"/>
+</p>
+
 <h3 align="left">Frontend</h3>
 <p align="left">
 <!-- react -->
@@ -47,19 +65,6 @@ $$
 <img src="https://i.namu.wiki/i/cXrwOT1vAT4rPnPlmIWNm2pAbdi0ZCB0TpegonRBwvR-FzS8iBgOexI07QO9V-faslFGib0G0NFgUjwrjTJj_w.svg" alt="PostgreSQL" width="40" height="40"/>
 <!-- kafkajs -->
 <img src="https://kafka.js.org/img/kafkajs_circle.png" alt="prisma" width="40" height="40"/>
-</p>
-
-<h3 align="left">ML Engineering</h3>
-
-<p align="left">
-<!-- langchain -->
-<img src="https://api.nuget.org/v3-flatcontainer/langchain/0.12.3-dev.127/icon" alt="expressjs" width="40" height="40"/>
-<!-- llamaindex -->
-<img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" alt="llamaindex" width="40" height="40"/>
-<!-- python -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-<!-- conda -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_conda_icon_130674.png" alt="prisma" width="40" height="40"/>
 </p>
 
 <h3 align="left">Cooperation</h3>
